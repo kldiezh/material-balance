@@ -1,0 +1,1 @@
+A material balance model for oil reservoirs programmed in Python. This model comprises several modules: input variables, equations resolution, graphs, and data export. The output contains reservoir variables such as saturation, pressure, and oil and gas rates.
